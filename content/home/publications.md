@@ -1,41 +1,23 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-# This file represents a page section.
+widget: portfolio
+active: true
 headless: true
-
-# Order that this section appears on the page.
-weight: 90
-
-title: Recent Publications
-subtitle: ''
-
+weight: 20
+title: Key Publications
 content:
-  # Filter on criteria
-  filters:
-    folders:
-      - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  page_type: publication
+  filter_default: 0
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Research
+      tag: Research
+    - name: Review
+      tag: Review
 design:
-  # Choose a view for the listings:
-  view: citation
   columns: '2'
+  view: 4
 ---
-
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Complete publication list available at [Google Scholar](https://scholar.google.com/citations?user=_f0y7BUAAAAJ) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Christopher+A+Zimmerman&sort=date).
 {{% /callout %}}

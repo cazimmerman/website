@@ -6,26 +6,21 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: Earth
+  font: Minimal
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: 'ZimmermanNeuro'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'G-JMNZWHR5ZR'
   verification:
     google: ''
-    baidu: ''
 
 # Site header
 
@@ -35,15 +30,15 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Christopher A Zimmerman, PhD'
     license:
       enable: true
       allow_derivatives: false
@@ -80,7 +75,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
   search:
@@ -91,8 +86,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: mapnik
+    api_key: #AIzaSyC7sPxn7qHobA_OcONI6foDrvD07y74y0s
     zoom: 15
 
 # Extensions
@@ -103,9 +98,13 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: mla
 
 # Security
 
 security:
-  # Allow frame for embedding speaker notes in slides
   allow_frame: true
