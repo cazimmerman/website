@@ -1,0 +1,14 @@
+cd /Users/czimmerman/Documents/GitHub/website
+git add .
+git commit -m "Update website"
+git push -u origin main
+
+
+rm -rf public/*
+hugo
+touch public/README.md 
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..
