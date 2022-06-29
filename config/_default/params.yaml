@@ -86,8 +86,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: mapnik
-    api_key: #AIzaSyC7sPxn7qHobA_OcONI6foDrvD07y74y0s
+    provider: google
+    api_key: AIzaSyC7sPxn7qHobA_OcONI6foDrvD07y74y0s
     zoom: 15
 
 # Extensions
