@@ -20,7 +20,7 @@ social:
     link: https://pubmed.ncbi.nlm.nih.gov/?term=Christopher+A+Zimmerman&sort=date
   - icon: cv
     icon_pack: ai
-    link: https://cazimmerman.github.io/files/zimmerman-cv.pdf
+    link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
 I am a neuroscientist focused on understanding how the <strong>brain</strong> senses the physiological state of the <strong>body</strong> and uses that information control <strong>behavior</strong>. The main goals of my research are to discover and characterize new body-to-brain sensory signals and to identify the neural coding mechanisms that connect these interoceptive signals to motivation and learning processes.

@@ -15,5 +15,5 @@ main:
     url: '#contact'
     weight: 50
   - name: CV
-    url: https://cazimmerman.github.io/files/zimmerman-cv.pdf
+    url: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
     weight: 60

@@ -11,6 +11,6 @@ links:
 - name: HTML
   url: https://dx.doi.org/10.1038/nrn.2017.71
 - name: Cover
-  url: https://cazimmerman.github.io/files/DFHUaKAXsAI0TLl-large.png
+  url: https://cazimmerman.github.io/uploads/DFHUaKAXsAI0TLl-large.png
 url_pdf: uploads/2017-nature-reviews-neuroscience.pdf
 ---
