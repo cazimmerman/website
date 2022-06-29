@@ -23,7 +23,7 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-I study how the <strong>brain</strong> senses the physiological state of the <strong>body</strong> and uses this information to control <strong>behavior</strong>. My goals are to discover and characterize body-to-brain sensory signals and to identify neural coding mechanisms that link these interoceptive signals to learning and motivation.
+I study how the <strong>brain</strong> senses the physiological state of the <strong>body</strong> and uses that information to control <strong>behavior</strong>. My goals are to discover and characterize new body-to-brain sensory signals and to identify neural coding mechanisms that link these interoceptive signals to learning and motivation.
 
 <strong>Currently:</strong> I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My main project uses brainwide neural recordings and computational modeling to investigate how body-to-brain signals drive learning. In a separate project, I am collaborating with members of the <a href='https://www.internationalbrainlab.com/' target='_blank'>International Brain Lab</a> to study how dopamine produces neural correlates of value during reinforcement learning.
 
