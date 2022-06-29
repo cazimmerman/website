@@ -15,7 +15,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'I am a postdoctoral fellow in Ilana Witten’s lab at the Princeton Neuroscience Institute. I study how the brain senses the physiological state of the body and uses that information control behavior.'
     twitter: 'ZimmermanNeuro'
   analytics:
     google_analytics: 'G-JMNZWHR5ZR'
@@ -65,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://cazimmerman.github.io/'
     content_dir: content
     branch: master
   avatar:
@@ -86,8 +86,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: google
-    api_key: AIzaSyC7sPxn7qHobA_OcONI6foDrvD07y74y0s
+    provider: mapnik
+    api_key:
     zoom: 15
 
 # Extensions
