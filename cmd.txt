@@ -12,3 +12,10 @@ git add .
 git commit -m "Build website"
 git push origin master
 cd ..
+
+
+** edit config.yaml **
+hugo mod clean
+hugo mod tidy
+** re-edit config.yaml ** 
+  
