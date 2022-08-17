@@ -17,5 +17,4 @@ cd ..
 ** edit config.yaml **
 hugo mod clean
 hugo mod tidy
-** re-edit config.yaml ** 
-  
+** re-edit config.yaml **
