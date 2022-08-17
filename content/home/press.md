@@ -39,11 +39,11 @@ item:
   title: 'Research on thirst wins 2020 Eppendorf & *Science* Prize'
   url: https://corporate.eppendorf.com/en/press-releases/08102020-research-on-thirst-wins-2020-eppendorf-science-prize
 - date_start: '2020-10-01'
-  organization: American Association for the Advancement of Science 
+  organization: 'American Association for the Advancement of Science '
   title: Real-time signals from body to brain help regulate sensation of thirst
   url: https://www.aaas.org/news/real-time-signals-body-brain-help-regulate-sensation-thirst
 - date_start: '2020-03-02'
-  organization: Fred Hutchinson Cancer Research Center
+  organization: 'Fred Hutchinson Cancer Research Center'
   title: Fred Hutch announces 2020 Harold M Weintraub Graduate Student Award recipients
   url: https://www.fredhutch.org/en/news/releases/2020/03/fred-hutch-announces-2020-harold-weintraub-graduate-student-award-recipents.html
 - date_start: '2019-04-19'
