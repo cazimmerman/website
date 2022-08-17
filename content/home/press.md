@@ -6,7 +6,7 @@ title: 'Press Coverage'
 date_format: Jan 2006
 
 item:
-- date_start: '2022-09-01'
+- date_start: '2022-08-01'
   organization: Scientific American news story
   title: Your body has a clever way to detect how much water you should drink every day
   url: https://pni.princeton.edu/news/chris-zimmerman-wins-eppendorf-and-lindsley-prizes-weintraub-award
