@@ -7,23 +7,23 @@ date_format: Jan 2006
 
 item:
 - date_start: '2022-09-01'
-  organization: Scientific American
+  organization: 'Scientific American'
   title: Your body has a clever way to detect how much water you should drink every day
   url: https://www.scientificamerican.com/article/your-body-has-a-clever-way-to-detect-how-much-water-you-should-drink-every-day
 - date_start: '2020-12-21'
-  organization: Princeton Neuroscience Institute
+  organization: 'Princeton Neuroscience Institute'
   title: Chris Zimmerman wins Eppendorf and Lindsley Prizes, Weintraub Award
   url: https://pni.princeton.edu/news/chris-zimmerman-wins-eppendorf-and-lindsley-prizes-weintraub-award
 - date_start: '2020-10-28'
-  organization: Society for Neuroscience
+  organization: 'Society for Neuroscience'
   title: SfN presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
   url: https://www.sfn.org/publications/latest-news/2020/10/28/society-for-neuroscience-presents-lindsley-prize-to-kiah-hardcastle-and-christopher-zimmerman
 - date_start: '2020-10-21'
-  organization: Naked Neuroscience Podcast
+  organization: 'Naked Neuroscience Podcast'
   title: How does thirst work in the brain?
   url: https://www.thenakedscientists.com/articles/interviews/how-does-thirst-work-brain
 - date_start: '2020-10-02'
-  organization: Inverse
+  organization: 'Inverse'
   title: Scientists discover the origin of thirst in the brain
   url: https://www.inverse.com/mind-body/origin-of-thirst-in-the-brain
 - date_start: '2020-10-01'
@@ -31,11 +31,11 @@ item:
   title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
   url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-%26-science-prize-neurobiology
 - date_start: '2020-10-01'
-  organization: Princeton University
+  organization: 'Princeton University'
   title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'
   url: https://www.princeton.edu/news/2020/10/02/zimmerman-wins-2020-eppendorf-and-science-prize
 - date_start: '2020-10-01'
-  organization: Eppendorf
+  organization: 'Eppendorf'
   title: 'Research on thirst wins 2020 Eppendorf & *Science* Prize'
   url: https://corporate.eppendorf.com/en/press-releases/08102020-research-on-thirst-wins-2020-eppendorf-science-prize
 - date_start: '2020-10-01'
