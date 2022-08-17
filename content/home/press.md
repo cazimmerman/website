@@ -31,7 +31,7 @@ item:
   title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
   url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-%26-science-prize-neurobiology
 - date_start: '2020-10-01'
-  organization: Princeton University
+  organization: Princeton
   title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'
   url: https://www.princeton.edu/news/2020/10/02/zimmerman-wins-2020-eppendorf-and-science-prize
 - date_start: '2020-10-01'
@@ -39,7 +39,7 @@ item:
   title: 'Research on thirst wins 2020 Eppendorf & *Science* Prize'
   url: https://corporate.eppendorf.com/en/press-releases/08102020-research-on-thirst-wins-2020-eppendorf-science-prize
 - date_start: '2020-10-01'
-  organization: American Association for the Advancement of Science
+  organization: AAAS
   title: Real-time signals from body to brain help regulate sensation of thirst
   url: https://www.aaas.org/news/real-time-signals-body-brain-help-regulate-sensation-thirst
 - date_start: '2020-03-02'
@@ -51,7 +51,7 @@ item:
   title: A thirst-quenching gut–brain signal
   url: https://www.nature.com/articles/s41575-019-0147-5/fulltext
 - date_start: '2019-03-30'
-  organization: 'NIH highlight'
+  organization: 'NIH'
   title: Your gut controls your thirst and keeps your brain informed
   url: https://www.nhlbi.nih.gov/news/2019/your-gut-controls-your-thirst-and-keeps-your-brain-informed
 - date_start: '2019-03-29'
