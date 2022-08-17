@@ -19,7 +19,7 @@ item:
   title: SfN presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
   url: https://www.sfn.org/publications/latest-news/2020/10/28/society-for-neuroscience-presents-lindsley-prize-to-kiah-hardcastle-and-christopher-zimmerman
 - date_start: '2020-10-21'
-  organization: Naked Neuroscience podcast
+  organization: Naked Neuroscience Podcast
   title: How does thirst work in the brain?
   url: https://www.thenakedscientists.com/articles/interviews/how-does-thirst-work-brain
 - date_start: '2020-10-02'
