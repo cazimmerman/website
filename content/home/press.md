@@ -31,7 +31,7 @@ item:
   title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
   url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-%26-science-prize-neurobiology
 - date_start: '2020-10-01'
-  organization: Princeton
+  organization: Princeton University
   title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'
   url: https://www.princeton.edu/news/2020/10/02/zimmerman-wins-2020-eppendorf-and-science-prize
 - date_start: '2020-10-01'
@@ -39,7 +39,7 @@ item:
   title: 'Research on thirst wins 2020 Eppendorf & *Science* Prize'
   url: https://corporate.eppendorf.com/en/press-releases/08102020-research-on-thirst-wins-2020-eppendorf-science-prize
 - date_start: '2020-10-01'
-  organization: AAAS
+  organization: American Association for the Advancement of Science 
   title: Real-time signals from body to brain help regulate sensation of thirst
   url: https://www.aaas.org/news/real-time-signals-body-brain-help-regulate-sensation-thirst
 - date_start: '2020-03-02'
@@ -51,7 +51,7 @@ item:
   title: A thirst-quenching gut–brain signal
   url: https://www.nature.com/articles/s41575-019-0147-5/fulltext
 - date_start: '2019-03-30'
-  organization: 'NIH'
+  organization: 'National Heart, Lung, and Blood Institute'
   title: Your gut controls your thirst and keeps your brain informed
   url: https://www.nhlbi.nih.gov/news/2019/your-gut-controls-your-thirst-and-keeps-your-brain-informed
 - date_start: '2019-03-29'
@@ -59,15 +59,15 @@ item:
   title: A gut check tells the brain about thirst
   url: https://www.youtube.com/watch?v=9DFYgYN6Vxc
 - date_start: '2019-03-27'
-  organization: 'NPR'
+  organization: 'NPR News'
   title: Blech! Brain science explains why you’re not thirsty for salt water
   url: https://www.npr.org/sections/thesalt/2019/03/27/707289059/blech-brain-science-explains-why-youre-not-thirsty-for-salt-water
 - date_start: '2019-03-27'
-  organization: 'HHMI'
+  organization: 'Howard Hughes Medical Institute'
   title: Thirst controlled by signal from the gut
   url: https://www.hhmi.org/news/thirst-controlled-by-signal-from-the-gut
 - date_start: '2019-03-27'
-  organization: 'UCSF'
+  organization: 'University of California, San Francisco'
   title: Had enough water? Brain’s thirst centers make a gut check
   url: https://www.ucsf.edu/news/2019/03/413736/had-enough-water-brains-thirst-centers-make-gut-check
 - date_start: '2016-11-03'
@@ -79,7 +79,7 @@ item:
   title: Forecast for water balance
   url: https://www.nature.com/articles/537626a/fulltext
 - date_start: '2016-08-03'
-  organization: 'BBC'
+  organization: 'BBC News'
   title: Brain’s thirst circuit ‘monitors the mouth’
   url: https://www.bbc.com/news/science-environment-36966275
 - date_start: '2016-08-03'
@@ -87,7 +87,7 @@ item:
   title: Scientists quench a decades-old question about thirst
   url: https://www.nature.com/articles/nature18950#Sec15
 - date_start: '2016-08-03'
-  organization: 'UCSF'
+  organization: 'University of California, San Francisco'
   title: New understanding of thirst emerges from brain study
   url: https://www.ucsf.edu/news/2016/08/403776/new-understanding-thirst-emerges-brain-study
 
