@@ -15,7 +15,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    description: 'I am a postdoctoral fellow in Ilana Witten’s lab at the Princeton Neuroscience Institute. I study how the brain senses the physiological state of the body and uses that information control behavior.'
+    description: 'I am a postdoctoral fellow at the Princeton Neuroscience Institute. I study how the brain uses interoceptive signals from the body to control behavior.'
     twitter: 'ZimmermanNeuro'
   analytics:
     google_analytics: 'G-JMNZWHR5ZR'
