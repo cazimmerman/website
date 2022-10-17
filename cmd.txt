@@ -18,5 +18,3 @@ cd ..
 hugo mod clean
 hugo mod tidy
 ** re-edit config.yaml **
-
-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
