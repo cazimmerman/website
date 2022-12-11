@@ -3,7 +3,7 @@ widget: portfolio
 active: true
 headless: true
 weight: 20
-title: Key Publications
+title: First-author Publications
 content:
   page_type: publication
   filter_default: 0
