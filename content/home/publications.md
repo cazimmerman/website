@@ -3,7 +3,7 @@ widget: portfolio
 active: true
 headless: true
 weight: 20
-title: First-author Publications
+title: Key Publications
 content:
   page_type: publication
   filter_default: 0
@@ -19,5 +19,5 @@ design:
   view: 4
 ---
 {{% callout note %}}
-Full publication list available at [Google Scholar](https://scholar.google.com/citations?user=_f0y7BUAAAAJ) and [PubMed](https://ncbi.nlm.nih.gov/myncbi/christopher.zimmerman.1/bibliography/public).
+Full list available at [Google Scholar](https://scholar.google.com/citations?user=_f0y7BUAAAAJ) and [PubMed](https://ncbi.nlm.nih.gov/myncbi/christopher.zimmerman.1/bibliography/public).
 {{% /callout %}}
