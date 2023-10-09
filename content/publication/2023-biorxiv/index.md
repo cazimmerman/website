@@ -23,6 +23,6 @@ publication: '*bioRxiv*'
 tags: [Research]
 links:
 - name: HTML
-  url: https://dx.doi.org/
+  url: https://biorxiv.org/
 url_pdf: uploads/2023-biorxiv.pdf
 ---
