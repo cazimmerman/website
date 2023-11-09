@@ -7,8 +7,8 @@ date_format: '2006'
 
 item:
 - date_start: '2023-11-01'
-  organization: NIH BRAIN Initiative
-  title: Advanced Postdoctoral Career Transition Award
+  organization: National Institute on Drug Abuse
+  title: BRAIN Initiative Advanced Postdoctoral Career Transition Award
 - date_start: '2022-06-01'
   organization: McKnight Endowment Fund for Neuroscience
   title: Allison J Doupe Fellowship
