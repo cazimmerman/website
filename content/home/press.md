@@ -29,7 +29,7 @@ item:
 - date_start: '2020-10-01'
   organization: '*Science* Podcast'
   title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
-  url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-%26-science-prize-neurobiology
+  url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-science-prize-neurobiology
 - date_start: '2020-10-01'
   organization: 'Princeton University'
   title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'

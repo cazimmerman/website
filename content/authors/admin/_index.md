@@ -1,7 +1,7 @@
 ---
 title: Christopher A Zimmerman, PhD
 superuser: true
-role: Helen Hay Whitney Postdoctoral Fellow
+role: NIH BRAIN Initiative K99 Fellow
 organizations:
   - name: Princeton Neuroscience Institute
 bio:
@@ -18,7 +18,6 @@ social:
   - icon: pubmed
     icon_pack: ai
     link: https://ncbi.nlm.nih.gov/myncbi/christopher.zimmerman.1/bibliography/public
-#    link: https://pubmed.ncbi.nlm.nih.gov/?term=Christopher+A+Zimmerman&sort=date
   - icon: cv
     icon_pack: ai
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
