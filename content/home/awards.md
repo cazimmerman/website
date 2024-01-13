@@ -12,6 +12,9 @@ item:
 - date_start: '2022-06-01'
   organization: McKnight Endowment Fund for Neuroscience
   title: Allison J Doupe Fellowship
+- date_start: '2020-11-01'
+  organization: 'Helen Hay Whitney Foundation'
+  title: Postdoctoral Fellowship
 - date_start: '2020-10-28'
   organization: Society for Neuroscience
   title: Donald B Lindsley Prize in Behavioral Neuroscience
@@ -21,9 +24,6 @@ item:
 - date_start: '2020-03-01'
   organization: Fred Hutchinson Cancer Research Center
   title: Harold M Weintraub Graduate Student Award
-- date_start: '2020-01-02'
-  organization: 'Helen Hay Whitney Foundation'
-  title: Postdoctoral Fellowship
 - date_start: '2020-01-01'
   organization: 'Winter Conference on Brain Research'
   title: Travel Fellowship
