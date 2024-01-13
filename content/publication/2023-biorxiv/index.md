@@ -12,7 +12,7 @@ authors:
   - Lee J
   - Hoag AT
   - Lynch LA
-  - Janarthanan SN
+  - Janarthanan SR
   - López Luna JF
   - Bondy AG
   - Falkner AL
@@ -24,5 +24,5 @@ tags: [Research]
 links:
 - name: HTML
   url: https://dx.doi.org/10.1101/2023.10.06.561214
-url_pdf: uploads/2023.10.06.561214v1.full.pdf
+url_pdf: uploads/2023.10.06.561214v2.full.pdf
 ---
