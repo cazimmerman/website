@@ -8,9 +8,9 @@ date_format: Jan 2006
 item:
 - date_start: '2024-03-01'
   organization: 'Cosyne Conference'
-  title: Short talk — A neural mechanism for learning from delayed postingestive feedback
+  title: Short talk: A neural mechanism for learning from delayed postingestive feedback
   url: https://www.youtube.com/watch?v=Tb7fLVhdpNc&t=4739s
-  - date_start: '2022-09-01'
+- date_start: '2022-09-01'
   organization: 'Scientific American'
   title: Your body has a clever way to detect how much water you should drink every day
   url: https://www.scientificamerican.com/article/your-body-has-a-clever-way-to-detect-how-much-water-you-should-drink-every-day
