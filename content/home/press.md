@@ -2,13 +2,13 @@
 widget: accomplishments
 headless: true
 weight: 40
-title: 'Press Coverage'
+title: 'Press & Media'
 date_format: Jan 2006
 
 item:
 - date_start: '2024-03-01'
   organization: 'Cosyne Conference'
-  title: 'Cosyne Main Meeting talk recording'
+  title: 'Cosyne Main Meeting talk recording (Session 3: Learning)'
   url: https://www.youtube.com/watch?v=Tb7fLVhdpNc&t=4739s
 - date_start: '2022-09-01'
   organization: 'Scientific American'
