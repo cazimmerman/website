@@ -6,6 +6,10 @@ title: 'Press & Media'
 date_format: Jan 2006
 
 item:
+- date_start: '2024-03-29'
+  organization: 'The Transmitter'
+  title: '‘It must be something I ate’ is hard-wired into the brain'
+  url: https://www.thetransmitter.org/learning/it-must-be-something-i-ate-is-hard-wired-into-the-brain
 - date_start: '2024-03-01'
   organization: 'Cosyne Conference'
   title: 'Cosyne Main Meeting talk recording (Session 3: Learning)'
@@ -14,10 +18,10 @@ item:
   organization: 'Scientific American'
   title: Your body has a clever way to detect how much water you should drink every day
   url: https://www.scientificamerican.com/article/your-body-has-a-clever-way-to-detect-how-much-water-you-should-drink-every-day
-- date_start: '2020-12-21'
-  organization: 'Princeton Neuroscience Institute'
-  title: Chris Zimmerman wins Eppendorf and Lindsley Prizes, Weintraub Award
-  url: https://pni.princeton.edu/news/chris-zimmerman-wins-eppendorf-and-lindsley-prizes-weintraub-award
+# - date_start: '2020-12-21'
+#   organization: 'Princeton Neuroscience Institute'
+#   title: Chris Zimmerman wins Eppendorf and Lindsley Prizes, Weintraub Award
+#   url: https://pni.princeton.edu/news/chris-zimmerman-wins-eppendorf-and-lindsley-prizes-weintraub-award
 - date_start: '2020-10-28'
   organization: 'Society for Neuroscience'
   title: SfN presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
