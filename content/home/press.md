@@ -18,10 +18,6 @@ item:
   organization: 'Scientific American'
   title: Your body has a clever way to detect how much water you should drink every day
   url: https://www.scientificamerican.com/article/your-body-has-a-clever-way-to-detect-how-much-water-you-should-drink-every-day
-# - date_start: '2020-12-21'
-#   organization: 'Princeton Neuroscience Institute'
-#   title: Chris Zimmerman wins Eppendorf and Lindsley Prizes, Weintraub Award
-#   url: https://pni.princeton.edu/news/chris-zimmerman-wins-eppendorf-and-lindsley-prizes-weintraub-award
 - date_start: '2020-10-28'
   organization: 'Society for Neuroscience'
   title: SfN presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
@@ -86,6 +82,10 @@ item:
   organization: '*Nature*'
   title: Forecast for water balance
   url: https://www.nature.com/articles/537626a/fulltext
+- date_start: '2016-08-03'
+  organization: 'STAT News'
+  title: Thirsty? Your brain knows before you do
+  url: https://www.statnews.com/2016/08/03/thirst-brain-neuron
 - date_start: '2016-08-03'
   organization: 'BBC News'
   title: Brain’s thirst circuit ‘monitors the mouth’
