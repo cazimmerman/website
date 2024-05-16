@@ -22,7 +22,7 @@ item:
   organization: American Association for the Advancement of Science
   title: 'Eppendorf & *Science* Prize for Neurobiology'
 - date_start: '2020-03-01'
-  organization: Fred Hutchinson Cancer Research Center
+  organization: Fred Hutchinson Cancer Center
   title: Harold M Weintraub Graduate Student Award
 - date_start: '2020-01-01'
   organization: 'Winter Conference on Brain Research'
