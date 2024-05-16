@@ -71,7 +71,7 @@ item:
   title: Thirst controlled by signal from the gut
   url: https://www.hhmi.org/news/thirst-controlled-by-signal-from-the-gut
 - date_start: '2019-03-27'
-  organization: 'University of California, San Francisco'
+  organization: 'University of California San Francisco'
   title: Had enough water? Brain’s thirst centers make a gut check
   url: https://www.ucsf.edu/news/2019/03/413736/had-enough-water-brains-thirst-centers-make-gut-check
 - date_start: '2016-11-03'
@@ -95,7 +95,7 @@ item:
   title: Scientists quench a decades-old question about thirst
   url: https://www.nature.com/articles/nature18950#Sec15
 - date_start: '2016-08-03'
-  organization: 'University of California, San Francisco'
+  organization: 'University of California San Francisco'
   title: New understanding of thirst emerges from brain study
   url: https://www.ucsf.edu/news/2016/08/403776/new-understanding-thirst-emerges-brain-study
 

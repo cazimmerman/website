@@ -34,7 +34,7 @@ item:
   organization: 'Genentech Foundation'
   title: Predoctoral Fellowship
 - date_start: '2015-09-01'
-  organization: 'University of California, San Francisco'
+  organization: 'University of California San Francisco'
   title: Discovery Fellowship
 - date_start: '2013-09-01'
   organization: 'National Science Foundation'
