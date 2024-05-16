@@ -47,7 +47,7 @@ item:
   title: Real-time signals from body to brain help regulate sensation of thirst
   url: https://www.aaas.org/news/real-time-signals-body-brain-help-regulate-sensation-thirst
 - date_start: '2020-03-02'
-  organization: 'Fred Hutchinson Cancer Research Center'
+  organization: 'Fred Hutchinson Cancer Center'
   title: Fred Hutch announces 2020 Harold M Weintraub Graduate Student Award recipients
   url: https://www.fredhutch.org/en/news/releases/2020/03/fred-hutch-announces-2020-harold-weintraub-graduate-student-award-recipents.html
 - date_start: '2019-04-19'
