@@ -30,14 +30,14 @@ item:
   organization: 'Inverse'
   title: Scientists discover the origin of thirst in the brain
   url: https://www.inverse.com/mind-body/origin-of-thirst-in-the-brain
-- date_start: '2020-10-01'
-  organization: '*Science* Podcast'
-  title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
-  url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-science-prize-neurobiology
-- date_start: '2020-10-01'
-  organization: 'Princeton University'
-  title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'
-  url: https://www.princeton.edu/news/2020/10/02/zimmerman-wins-2020-eppendorf-and-science-prize
+# - date_start: '2020-10-01'
+#   organization: '*Science* Podcast'
+#   title: 'Interview with the winners of the 2020 Eppendorf & *Science* Prize for Neurobiology'
+#   url: https://www.science.org/content/webinar/interview-winners-2020-eppendorf-science-prize-neurobiology
+# - date_start: '2020-10-01'
+#   organization: 'Princeton University'
+#   title: 'Zimmerman wins 2020 Eppendorf & *Science* Prize'
+#   url: https://www.princeton.edu/news/2020/10/02/zimmerman-wins-2020-eppendorf-and-science-prize
 - date_start: '2020-10-01'
   organization: 'Eppendorf'
   title: 'Research on thirst wins 2020 Eppendorf & *Science* Prize'
