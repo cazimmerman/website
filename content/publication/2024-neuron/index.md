@@ -19,7 +19,7 @@ author_notes:
  -
  - Co-corresponding author
 date: '2023-09-01'
-publication: '*Neuron* in press & *bioRxiv*'
+publication: '*Neuron*, in press & *bioRxiv*'
 tags: [Research]
 links:
 - name: HTML
