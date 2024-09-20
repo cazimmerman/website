@@ -1,23 +1,28 @@
 ---
-title: 'The forebrain thirst circuit drives drinking through negative reinforcement'
+title: 'Heightened lateral habenula activity during stress produces brainwide and behavioral substrates of susceptibility'
 authors:
-  - Leib DE
+  - Zhukovskaya A
   - Zimmerman CA
-  - Poormoghaddam A
-  - Huey EL
-  - Ahn JS
-  - Lin YC
-  - Tan CL
-  - Chen Y
-  - Knight ZA
+  - Willmore L
+  - Pan-Vazquez A
+  - Lynch LL
+  - Janarthanan SR
+  - Falkner AL
+  - Witten IB
 author_notes:
- - Equal contributions
- - Equal contributions
-date: '2017-12-20'
-publication: '*Neuron* 96, 1272&#8288;–&#8288;1281'
+ -
+ - Co-corresponding author
+ -
+ -
+ -
+ -
+ -
+ - Co-corresponding author
+date: '2023-09-01'
+publication: '*Neuron* in press & *bioRxiv*'
 tags: [Research]
 links:
 - name: HTML
-  url: https://dx.doi.org/10.1016/j.neuron.2017.11.041
-url_pdf: uploads/2017-neuron.pdf
+  url: https://doi.org/10.1101/2023.11.06.565681
+url_pdf: uploads/2023.11.06.565681v2.full.pdf
 ---
