@@ -5,7 +5,7 @@ authors:
   - Zimmerman CA
   - Willmore L
   - Pan-Vazquez A
-  - Lynch LL
+  - Lynch LA
   - Janarthanan SR
   - Falkner AL
   - Witten IB
