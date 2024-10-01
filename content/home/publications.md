@@ -19,5 +19,5 @@ design:
   view: 4
 ---
 {{% callout note %}}
-Complete list of publications available at [Google Scholar](https://scholar.google.com/citations?user=_f0y7BUAAAAJ) and [PubMed](https://ncbi.nlm.nih.gov/myncbi/christopher.zimmerman.1/bibliography/public).
+Complete list of publications available at [Google Scholar](https://scholar.google.com/citations?user=_f0y7BUAAAAJ).
 {{% /callout %}}
