@@ -15,9 +15,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_f0y7BUAAAAJ
-  - icon: pubmed
-    icon_pack: ai
-    link: https://ncbi.nlm.nih.gov/myncbi/christopher.zimmerman.1/bibliography/public
   - icon: cv
     icon_pack: ai
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
