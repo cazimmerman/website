@@ -25,4 +25,6 @@ links:
 - name: HTML
   url: https://doi.org/10.1101/2023.11.06.565681
 url_pdf: uploads/2023.11.06.565681v2.full.pdf
+- name: Data
+  url: https://doi.org/10.6084/m9.figshare.26542972
 ---
