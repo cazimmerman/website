@@ -20,7 +20,7 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-I study how <strong>interoceptive signals</strong> from the body modify <strong>brainwide neural circuitry and dynamics</strong> to support <strong>learning and memory</strong> and promote long-lasting changes in behavior, with the ultimate goal of discovering general principles for how learning algorithms are implemented in the brain.
+I study how <strong>interoceptive signals</strong> from the body modify <strong>brainwide neural circuitry and dynamics</strong> to support <strong>learning and memory</strong> and promote long-lasting changes in behavior, with the goal of discovering general principles for how learning algorithms are implemented in the brain.
 
 <strong>Currently:</strong> I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My recent work addresses a long-standing mystery about learning from gut-to-brain signals: How is the brain able to associate flavors experienced during a meal with postingestive effects, like food poisoning, that arise minutes or hours later? We discovered that delayed malaise signals reactivate and stabilize the amygdala's representation of recently consumed novel flavors, which provides a neural mechanism to resolve the credit assignment problem in postingestive learning and shows how the common phrase we associate with unexpected nausea, "it must be something I ate", is hard-wired into the brain.
 
