@@ -23,7 +23,7 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-I study how interoceptive signals from the <strong>body</strong> modify neural circuitry and dynamics in the <strong>brain</strong> to promote long-lasting changes in <strong>behavior</strong>.
+I study how interoceptive signals from the <strong>body</strong> modify neural circuitry and dynamics in the <strong>brain</strong> to promote long-lasting changes in <strong>behavior</strong>. My main goals are to map where and how specific body-to-brain sensory signals are represented and drive plasticity in neural computations, and to causally link interoception-driven brain activity and plasticity to specific components of learning and memory.
 
 <strong>Currently:</strong> I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My main project uses brainwide neural recordings and computational modeling to investigate how body-to-brain signals drive learning. In a separate project, I collaborate with members of the <a href='https://www.internationalbrainlab.com/' target='_blank'>International Brain Laboratory</a> to explore how dopamine modulates brainwide activity during reinforcement learning.
 
