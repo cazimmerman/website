@@ -6,6 +6,10 @@ title: 'Press & Media'
 date_format: Jan 2006
 
 item:
+- date_start: '2024-09-25'
+  organization: 'Sainsbury Wellcome Centre'
+  title: 'SWC Emerging Neuroscientists Seminar Series 2024/25 winners announced'
+  url: https://www.sainsburywellcome.org/web/seminar/swc-emerging-neuroscientists-seminar-series-202425-winners-announced
 - date_start: '2024-03-29'
   organization: 'The Transmitter'
   title: '‘It must be something I ate’ is hard-wired into the brain'
