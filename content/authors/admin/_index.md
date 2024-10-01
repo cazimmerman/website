@@ -20,7 +20,7 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-I study how <strong>interoceptive signals</strong> from the body modify <strong>brainwide neural circuitry and dynamics</strong> to support <strong>learning and memory</strong> and promote long-lasting changes in behavior, with the goal of discovering general principles for how learning and credit assignment algorithms are implemented in the brain.
+I study how <strong>interoceptive signals</strong> from the body modify <strong>brainwide neural circuitry and dynamics</strong> to support <strong>learning and memory</strong> and promote long-lasting changes in behavior, with the goal of discovering general principles for how learning algorithms are implemented in the brain.
 
 <strong>Currently:</strong> I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My main project uses brainwide neural recordings and computational modeling to investigate how body-to-brain signals drive learning. In a separate project, I collaborate with members of the <a href='https://www.internationalbrainlab.com/' target='_blank'>International Brain Laboratory</a> to explore how dopamine modulates brainwide activity during reinforcement learning.
 
