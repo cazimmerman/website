@@ -23,8 +23,10 @@ publication: '*Neuron*, in press & *bioRxiv*'
 tags: [Research]
 links:
 - name: HTML
+  url: https://doi.org/10.1016/j.neuron.2024.09.009
+- name: bioRxiv
   url: https://doi.org/10.1101/2023.11.06.565681
 - name: Data
   url: https://doi.org/10.6084/m9.figshare.26542972
-url_pdf: uploads/2023.11.06.565681v2.full.pdf
+url_pdf: uploads/2024-neuron.pdf
 ---
