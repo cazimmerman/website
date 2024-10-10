@@ -5,8 +5,8 @@ authors:
   - Zimmerman CA
   - Willmore L
   - Pan-Vazquez A
-  - Lynch LA
   - Janarthanan SR
+  - Lynch LA
   - Falkner AL
   - Witten IB
 author_notes:
