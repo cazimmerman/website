@@ -10,6 +10,7 @@ social:
     icon_pack: fas
     link: '#contact'
   - name: Bluesky
+    description: 90%
     icon: bluesky-brands-solid
     icon_pack: custom
     link: https://bsky.app/profile/czimmerman.bsky.social
