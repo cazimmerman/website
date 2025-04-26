@@ -8,7 +8,7 @@ date_format: Jan 2006
 item:
 - date_start: '2025-04-21'
   organization: '*Current Biology*'
-  title: 'A mechanism for conditioned taste aversion'
+  title: 'Associative learning: A mechanism for conditioned taste aversion'
   url: https://www.cell.com/current-biology/fulltext/S0960-9822(24)01714-7
 - date_start: '2025-04-21'
   organization: 'Science News'
