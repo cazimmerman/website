@@ -8,7 +8,7 @@ date_format: Jan 2006
 item:
 - date_start: '2025-04-21'
   organization: '*Current Biology*'
-  title: 'Associative learning: A mechanism for conditioned taste aversion'
+  title: 'A mechanism for conditioned taste aversion'
   url: https://www.cell.com/current-biology/fulltext/S0960-9822(24)01714-7
 - date_start: '2025-04-21'
   organization: 'Science News'
@@ -48,7 +48,7 @@ item:
   url: https://www.scientificamerican.com/article/your-body-has-a-clever-way-to-detect-how-much-water-you-should-drink-every-day
 - date_start: '2020-10-28'
   organization: 'Society for Neuroscience'
-  title: SfN presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
+  title: Society for Neuroscience presents Lindsley Prize to Kiah Hardcastle and Christopher Zimmerman
   url: https://www.sfn.org/publications/latest-news/2020/10/28/society-for-neuroscience-presents-lindsley-prize-to-kiah-hardcastle-and-christopher-zimmerman
 - date_start: '2020-10-21'
   organization: 'Naked Neuroscience Podcast'
