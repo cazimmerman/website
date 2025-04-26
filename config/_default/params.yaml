@@ -15,8 +15,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    description: 'I am a postdoctoral fellow at the Princeton Neuroscience Institute. I study how the brain uses interoceptive signals from the body to control behavior.'
-    twitter: 'ZimmermanNeuro'
+    description: 'I am a postdoctoral fellow at the Princeton Neuroscience Institute. I study how interoceptive signals from the body influence learning and memory.'
   analytics:
     google_analytics: 'G-JMNZWHR5ZR'
   verification:

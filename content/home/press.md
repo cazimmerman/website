@@ -6,16 +6,40 @@ title: 'Press & Media'
 date_format: Jan 2006
 
 item:
-- date_start: '2024-09-25'
+- date_start: '2025-04-21'
+  organization: '*Current Biology*'
+  title: 'Associative learning: A mechanism for conditioned taste aversion'
+  url: https://www.cell.com/current-biology/fulltext/S0960-9822(24)01714-7
+- date_start: '2025-04-21'
+  organization: 'Science News'
+  title: 'Mouse brains hint at why it’s so hard to forget food poisoning'
+  url: https://www.sciencenews.org/article/mouse-brain-food-poisoning-amygdala
+- date_start: '2025-04-14'
+  organization: 'National Geographic'
+  title: 'Hate cilantro or anchovies? Evolutionary science could explain why'
+  url: https://www.nationalgeographic.com/health/article/food-aversions-disgust-taste-smell
+- date_start: '2025-04-02'
+  organization: 'Princeton Neuroscience Institute'
+  title: 'How the brain remembers what gave you food poisoning'
+  url: https://pni.princeton.edu/news/2025/how-brain-remembers-what-gave-you-food-poisoning
+- date_start: '2025-03-31'
   organization: 'Sainsbury Wellcome Centre'
-  title: 'SWC Emerging Neuroscientists Seminar Series 2024/25 winners announced'
-  url: https://www.sainsburywellcome.org/web/seminar/swc-emerging-neuroscientists-seminar-series-202425-winners-announced
+  title: 'Q&A: How the brain learns what made you sick'
+  url: https://www.sainsburywellcome.org/web/qa/it-must-be-something-i-ate-how-brain-learns-what-made-you-sick
+- date_start: '2024-10-25'
+  organization: 'Princeton Neuroscience Institute'
+  title: 'Brain region critical for coping with chronic stress identified in mice'
+  url: https://pni.princeton.edu/news/2024/brain-region-critical-coping-chronic-stress-identified-mice
+# - date_start: '2024-09-25'
+#   organization: 'Sainsbury Wellcome Centre'
+#   title: 'SWC Emerging Neuroscientists Seminar Series 2024/25 winners announced'
+#   url: https://www.sainsburywellcome.org/web/seminar/swc-emerging-neuroscientists-seminar-series-202425-winners-announced
 - date_start: '2024-03-29'
   organization: 'The Transmitter'
   title: '‘It must be something I ate’ is hard-wired into the brain'
   url: https://www.thetransmitter.org/learning/it-must-be-something-i-ate-is-hard-wired-into-the-brain
 - date_start: '2024-03-01'
-  organization: 'Cosyne Conference'
+  organization: 'Cosyne'
   title: 'Cosyne Main Meeting talk recording (Session 3: Learning)'
   url: https://www.youtube.com/watch?v=Tb7fLVhdpNc&t=4739s
 - date_start: '2022-09-01'
@@ -87,6 +111,10 @@ item:
   title: Forecast for water balance
   url: https://www.nature.com/articles/537626a/fulltext
 - date_start: '2016-08-03'
+  organization: '*Nature* Podcast'
+  title: Scientists quench a decades-old question about thirst
+  url: https://www.nature.com/articles/nature18950#Sec15
+- date_start: '2016-08-03'
   organization: 'STAT News'
   title: Thirsty? Your brain knows before you do
   url: https://www.statnews.com/2016/08/03/thirst-brain-neuron
@@ -94,10 +122,6 @@ item:
   organization: 'BBC News'
   title: Brain’s thirst circuit ‘monitors the mouth’
   url: https://www.bbc.com/news/science-environment-36966275
-- date_start: '2016-08-03'
-  organization: '*Nature* Podcast'
-  title: Scientists quench a decades-old question about thirst
-  url: https://www.nature.com/articles/nature18950#Sec15
 - date_start: '2016-08-03'
   organization: 'University of California San Francisco'
   title: New understanding of thirst emerges from brain study
