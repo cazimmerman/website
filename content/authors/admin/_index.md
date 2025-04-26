@@ -9,7 +9,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'
-  - icon: fa-bluesky
+  - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/czimmerman.bsky.social
   - icon: google-scholar
