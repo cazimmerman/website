@@ -11,6 +11,9 @@ social:
     link: '#contact'
   - icon: twitter
     icon_pack: fab
+    link: https://twitter.com/ZimmermanNeuro
+  - icon: bluesky
+    icon_pack: custom
     link: https://bsky.app/profile/czimmerman.bsky.social
   - icon: google-scholar
     icon_pack: ai
