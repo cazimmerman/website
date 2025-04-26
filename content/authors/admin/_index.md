@@ -9,9 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/ZimmermanNeuro
+  - icon: fa-bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/czimmerman.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_f0y7BUAAAAJ
