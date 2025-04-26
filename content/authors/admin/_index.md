@@ -10,7 +10,7 @@ social:
     icon_pack: fas
     link: '#contact'
   - icon: bluesky-brands-solid
-    icon_pack: icons
+    icon_pack: custom
     link: https://bsky.app/profile/czimmerman.bsky.social
   - icon: google-scholar
     icon_pack: ai
