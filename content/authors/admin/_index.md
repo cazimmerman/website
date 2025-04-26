@@ -9,9 +9,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '#contact'
-  - icon: bluesky-brands-solid
-    icon_pack: custom
-    link: https://bsky.app/profile/czimmerman.bsky.social
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_f0y7BUAAAAJ
