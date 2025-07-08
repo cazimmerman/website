@@ -17,7 +17,7 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-<strong>I will start as an Assistant Professor in the <a href='https://medicine.utah.edu/neurobiology/' target='_blank'>University of Utah Department of Neurobiology</a> in January 2026!</strong> My lab will focus on body–brain interactions in learning and memory. We will bring together new perspectives and tools — from systems and computational neuroscience, physiology, genomics, and biochemistry — to address basic questions about the neurobiology of interoception and learning.
+<strong>I will start as an Assistant Professor in the <a href='https://medicine.utah.edu/neurobiology/' target='_blank'>University of Utah Department of Neurobiology</a> in Jan 2026!</strong> My lab will focus on body–brain interactions in learning and memory. We will bring together new perspectives and tools — from systems and computational neuroscience, physiology, genomics, and biochemistry — to address basic questions about the neurobiology of interoception and learning.
 
 I will be recruiting lab members at all levels. Prospective graduate students should apply to the University of Utah's <a href='https://neuroscience.med.utah.edu/' target='_blank'>Neuroscience PhD Program</a> or <a href='https://bioscience.utah.edu/molecular_biology/' target='_blank'>Molecular Biology PhD Program</a>. Prospective postdocs or postbaccs/technicians should <a href='https://cazimmerman.github.io/#contact' target='_blank'>contact</a> me directly.
 
