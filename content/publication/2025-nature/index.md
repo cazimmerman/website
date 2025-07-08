@@ -39,7 +39,7 @@ author_notes:
  -
  - Co-corresponding author
 date: '2025-04-01'
-publication: '*Nature*'
+publication: '*Nature* 642, 700&#8288;–&#8288;709'
 tags: [Research]
 links:
 - name: HTML

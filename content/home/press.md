@@ -38,10 +38,10 @@ item:
   organization: 'The Transmitter'
   title: '‘It must be something I ate’ is hard-wired into the brain'
   url: https://www.thetransmitter.org/learning/it-must-be-something-i-ate-is-hard-wired-into-the-brain
-- date_start: '2024-03-01'
-  organization: 'Cosyne'
-  title: 'Cosyne Main Meeting talk recording (Session 3: Learning)'
-  url: https://www.youtube.com/watch?v=Tb7fLVhdpNc&t=4739s
+# - date_start: '2024-03-01'
+#   organization: 'Cosyne'
+#   title: 'Cosyne Main Meeting talk recording (Session 3: Learning)'
+#   url: https://www.youtube.com/watch?v=Tb7fLVhdpNc&t=4739s
 - date_start: '2022-09-01'
   organization: 'Scientific American'
   title: Your body has a clever way to detect how much water you should drink every day

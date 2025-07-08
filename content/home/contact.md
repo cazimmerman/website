@@ -8,11 +8,15 @@ content:
   autolink: false
   email: czimmerman@princeton.edu
   address:
-    street: Princeton Neuroscience Institute
-    postcode: Room 184E
+    street: Princeton University
+    postcode: PNI 184E
+  # email: zimmerman@neuro.utah.edu
+  address:
+    street: University of Utah
+    postcode: BPRB 390C (Jan 2026)
   coordinates:
-    latitude: '40.342852290069075'
-    longitude: '-74.65226672016261'
+    latitude: '40.769'
+    longitude: '-111.833'
 design:
   columns: '2'
 ---

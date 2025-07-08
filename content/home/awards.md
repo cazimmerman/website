@@ -8,7 +8,7 @@ date_format: '2006'
 item:
 - date_start: '2023-11-01'
   organization: National Institute on Drug Abuse
-  title: BRAIN Initiative Advanced Postdoctoral Career Transition Award
+  title: BRAIN Initiative K99 Advanced Postdoctoral Career Transition Award
 - date_start: '2022-06-01'
   organization: McKnight Endowment Fund for Neuroscience
   title: Allison J Doupe Fellowship
@@ -29,7 +29,7 @@ item:
   title: Travel Fellowship
 - date_start: '2017-09-01'
   organization: 'National Heart, Lung, and Blood Institute'
-  title: National Research Service Award Predoctoral Fellowship
+  title: National Research Service Award F31 Predoctoral Fellowship
 - date_start: '2016-09-01'
   organization: 'Genentech Foundation'
   title: Predoctoral Fellowship

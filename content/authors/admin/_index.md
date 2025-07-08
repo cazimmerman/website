@@ -1,9 +1,9 @@
 ---
 title: Christopher A Zimmerman, PhD
 superuser: true
-role: NIH BRAIN Initiative K99 Fellow
+role: Incoming Assistant Professor
 organizations:
-  - name: Princeton Neuroscience Institute
+  - name: University of Utah
 bio:
 social:
   - icon: envelope
@@ -17,8 +17,10 @@ social:
     link: https://cazimmerman.github.io/uploads/zimmerman-cv.pdf
 ---
 
-I study how <strong>interoceptive signals</strong> from the body remodel <strong>brainwide neural circuitry and representations</strong> to support <strong>learning and memory</strong> and promote long-lasting changes in behavior — with the goal of understanding the general principles for how learning and motivation algorithms are implemented in the brain and how these neural computations give rise to basic elements of human experience.
+<strong>I will start as an Assistant Professor in the <a href='https://medicine.utah.edu/neurobiology/' target='_blank'>University of Utah Department of Neurobiology</a> in January 2026!</strong> My lab will focus on body–brain interactions in learning and memory. We will bring together new perspectives and tools — from systems and computational neuroscience, physiology, genomics, and biochemistry — to address basic questions about the neurobiology of interoception and learning.
 
-<strong>Currently:</strong> I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My recent work addresses a long-standing mystery about learning from gut-to-brain signals: How is the brain able to associate flavors experienced during a meal with postingestive effects, like food poisoning, that arise minutes or hours later? We discovered that delayed malaise signals reactivate and strengthen the amygdala's representation of flavors from a recent meal, which provides a neural mechanism to resolve the credit assignment problem in postingestive learning and shows how the common phrase we associate with unexpected nausea — "it must be something I ate" — is hard-wired into the brain.
+I will be recruiting lab members at all levels. Prospective graduate students should apply to the University of Utah's <a href='https://neuroscience.med.utah.edu/' target='_blank'>Neuroscience PhD Program</a> or <a href='https://bioscience.utah.edu/molecular_biology/' target='_blank'>Molecular Biology PhD Program</a>. Prospective postdocs or postbaccs/technicians should <a href='https://cazimmerman.github.io/#contact' target='_blank'>contact</a> me directly.
 
-<strong>Previously:</strong> I was a graduate student in <a href='https://knightlab.ucsf.edu/' target='_blank'>Zachary Knight’s lab</a> in the <a href='https://physiology.ucsf.edu' target='_blank'>UCSF Department of Physiology</a>. My thesis focused on the neural mechanisms that govern thirst and drinking behavior. We discovered that sensory signals originating throughout the body — including from the mouth, throat, and gut — converge onto individual "thirst neurons" in the forebrain during eating and drinking, which allows these cells to predict changes in hydration before they occur and adjust drinking preemptively. This, in turn, provides a neural explanation for long-enigmatic aspects of everyday human behavior, including the rapid speed of thirst satiation, the thirst-quenching power of oral cooling, and the prevalence of drinking during meals.
+Currently: I am a postdoctoral fellow in <a href='https://www.wittenlab.org/' target='_blank'>Ilana Witten’s lab</a> at the <a href='https://pni.princeton.edu/' target='_blank'>Princeton Neuroscience Institute</a>. My recent work focuses on a long-standing mystery about learning from body-to-brain feedback: How are we able to associate the flavors we experience during a meal with postingestive effects like food poisoning that arise much later? We discovered a learning mechanism that might allow the brain to overcome this long gap between cause (🥘🍲) and effect (🤢🤮): Delayed illness signals from the gut selectively reactivate and strengthen the neural representation of flavors from a recent meal in the amygdala (a key brain region for learning and emotion). This neural plasticity may help us to avoid foods that have made us sick in the future, and shows how the common phrase we associate with unexpected nausea — that "it must be something I ate" — is hard-wired into the brain.
+
+Previously: I was a graduate student in <a href='https://knightlab.ucsf.edu/' target='_blank'>Zachary Knight’s lab</a> in the <a href='https://physiology.ucsf.edu/' target='_blank'>UCSF Department of Physiology</a>. My thesis research focused on the neurobiology of thirst and drinking behavior.
