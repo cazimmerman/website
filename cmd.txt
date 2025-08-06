@@ -10,7 +10,7 @@ touch public/README.md
 cd public
 git add .
 git commit -m "Build website"
-git push -f origin master
+git push origin master
 cd ..
 
 
