@@ -6,7 +6,7 @@ weight: 50
 title: Contact
 content:
   autolink: false
-  email: czimmerman@princeton.edu
+  email: zimmerman@neuro.utah.edu
   address:
     street: University of Utah
     postcode: BPRB 390C
